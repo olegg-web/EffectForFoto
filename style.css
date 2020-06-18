@@ -1,0 +1,22 @@
+
+
+#myslide{
+  width: 533px;
+  height: 800px;
+  /* border: 1px solid black; */
+  position: relative;
+  overflow: hidden;
+  margin-left: 30%;
+}
+ #one1,#two2{
+  width: 533px;
+  height: 800px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+} 
+img{
+  width: 533px;
+  height: 800px;
+}
